@@ -24,7 +24,7 @@ dependencies:
   - h5py
   - pyarrow
   - pympler
-  - torch
+  - pytorch
 
   # libraries for particle physics
   - uproot
