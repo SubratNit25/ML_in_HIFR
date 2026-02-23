@@ -25,6 +25,10 @@ dependencies:
   - pyarrow
   - pympler
   - pytorch
+  # My added Python libraries
+  - tqdm 
+  - shap
+  - seaborn
 
   # libraries for particle physics
   - uproot
