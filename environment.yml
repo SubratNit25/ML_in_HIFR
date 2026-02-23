@@ -26,6 +26,7 @@ dependencies:
   - pympler
   - pytorch
   # My added Python libraries
+  - torch
   - tqdm 
   - shap
   - seaborn
